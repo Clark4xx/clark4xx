@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Gabriel Freitas 😁💻
 
  <div>
-   <a href="https://github.com/Clark4xx">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clark4xx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clark4xx&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/gabrielfreitasc">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grabrielfreitasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfreitasc&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -22,6 +22,6 @@
   <a href = "gabrielcoelhito2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-freitasdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/clark4xx/clark4xx/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gabrielfreitasc/gabrielfreitasc/blob/output/github-contribution-grid-snake.svg)
 
 </div>
