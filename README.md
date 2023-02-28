@@ -10,15 +10,17 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg'>
-  <img align="center" alt="CSS" height="30" width="40" src='https://www.svgrepo.com/show/373574/ejs.svg'>
+  <img align="center" alt="React" height="30" width="40" src='https://www.svgrepo.com/show/354259/react.svg'>
+  <img align="center" alt="TypeScript" height="30" width="40" src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg'>
+  <img align="center" alt="EJS" height="30" width="40" src='https://www.svgrepo.com/show/373574/ejs.svg'>
+
  
 </div><br>
 
  [Link do meu portfólio Online](https://gabrielfreitasc.github.io/DevExperience/)
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Pra conteúdo sobre programação e contato comigo, me segue nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/gabrielcoelhito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
