@@ -13,6 +13,7 @@
   <img align="center" alt="React" height="30" width="40" src='https://www.svgrepo.com/show/354259/react.svg'>
   <img align="center" alt="TypeScript" height="30" width="40" src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg'>
   <img align="center" alt="EJS" height="30" width="40" src='https://www.svgrepo.com/show/373574/ejs.svg'>
+  <img align="center" alt="DOCKER" height="30" width="40" src='https://www.svgrepo.com/show/349342/docker.svg'>
 
  
 </div><br>
